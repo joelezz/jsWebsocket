@@ -1,3 +1,5 @@
+// this is a raw tcp server
+
 let net = require("net")
 
 let server = net.createServer((socket) => {
