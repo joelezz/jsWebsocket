@@ -4,7 +4,7 @@ This is a minimal WebSocket-based chat app using **Node.js**, **Express**, and *
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+# 1. Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/your-repo.git
